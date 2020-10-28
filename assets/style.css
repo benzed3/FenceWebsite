@@ -1,0 +1,16 @@
+body {
+    background: grey;
+}
+
+.container {
+    background: white;
+}
+
+.imageBox {
+    width: 33%;
+}
+
+.links {
+    width: 25%;
+    margin: 0;
+}
