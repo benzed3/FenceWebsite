@@ -1,9 +1,11 @@
-body {
+html, body {
     background: grey;
+    height: 100%;
 }
 
-.container {
+.body {
     background: white;
+    height: 100%;
 }
 
 .imageBox {
