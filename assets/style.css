@@ -12,6 +12,11 @@ html, body {
     width: 33%;
 }
 
+.nav-bar {
+    border-style: solid;
+    border-color: black;
+}
+
 .links {
     width: 25%;
     margin: 0;
