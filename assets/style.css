@@ -35,6 +35,11 @@ a {
     color: black;
 }
 
+.main {
+    background: tan;
+    height: 100%;
+}
+
 #welcomeText {
     text-align: center;
     margin-top: 10px;
